@@ -8,14 +8,14 @@ export default {
 
 <template>
     <!-- questo verra visualizzato in pagina -->
-    <h1>
+    <h1 class="main_title">
         La mia prima app con Vite!
     </h1>
 </template>
 
 <style>
 /* qui posso aggiungere il suo stile */
-h1{
+.main_title{
     color: #B7C9F2;
     text-align: center;
 }
